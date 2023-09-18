@@ -20,5 +20,5 @@ This COVID-19 dashboard is a web application built with dash. It provides real-t
 1. **Clone the repository**:
 
    ```bash
-   git clone 
+   git clone https://github.com/Tuntufye4/covdash.git
   
