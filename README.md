@@ -1,5 +1,5 @@
-# COVID-19 Dashboard 
 
+<<<<<<< HEAD
 
 
 ![Dashboard Preview](dashboard_preview.png)
@@ -22,3 +22,5 @@ This COVID-19 dashboard is a web application built with dash. It provides real-t
    ```bash
    git clone https://github.com/Tuntufye4/covdash.git
   
+=======
+>>>>>>> 4d93cf2d9672dbebeb5c4ac84d9685237490efad
