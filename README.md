@@ -1,9 +1,6 @@
 # COVID-19 Dashboard 
 
 
-
-[Dashboard Preview](https://covdash.onrender.com/)
-
 This COVID-19 dashboard is a web application built with dash. It provides real-time statistics and visualizations of COVID-19 cases in various districts.
 
 ## Features
@@ -20,4 +17,10 @@ This COVID-19 dashboard is a web application built with dash. It provides real-t
 
    ```bash
    git clone https://github.com/Tuntufye4/covdash.git
+
+
+2. **Preview the dashboard**
+   
+   Click the link below:
+   [Covid-19 Dashboard](https://covdash.onrender.com/)
   
