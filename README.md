@@ -22,5 +22,6 @@ This COVID-19 dashboard is a web application built with dash. It provides real-t
 2. **Preview the dashboard**
    
    Click the link below:
+   
    [Covid-19 Dashboard](https://covdash.onrender.com/)
   
