@@ -2,7 +2,7 @@
 
 
 
-![Dashboard Preview](https://covdash.onrender.com/)
+[Dashboard Preview](https://covdash.onrender.com/)
 
 This COVID-19 dashboard is a web application built with dash. It provides real-time statistics and visualizations of COVID-19 cases in various districts.
 
