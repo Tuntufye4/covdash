@@ -8,7 +8,8 @@ This COVID-19 dashboard is a web application built with dash. It provides real-t
 - Interactive bar graph displaying COVID-19 cases by district.
 - A pie chart showing the distribution of cases.
 - Total COVID-19 cases count.
-
+- Vaccinated count.
+- Patient on treatment count.
 
 ## Getting Started
 
