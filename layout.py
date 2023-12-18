@@ -31,7 +31,7 @@ def create_layout():
                 dbc.Card(
                     dbc.CardBody([
                         html.H3(sum(covid_data['Vaccinated']), className="card-count text-white"),
-                        html.P("Count of Vaccinated", className="card-text text-white"),
+                        html.P("Vaccinated", className="card-text text-white"),
                     ]),
                     color=card_styles["dark"]
                 ),
@@ -43,7 +43,7 @@ def create_layout():
                 dbc.Card(
                     dbc.CardBody([
                         html.H3(sum(covid_data['OnTreatment']), className="card-count text-white"),
-                        html.P("Count of Those on Treatment", className="card-text text-white"),
+                        html.P("On Treatment", className="card-text text-white"),
                     ]),
                     color=card_styles["primary"]
                 ),
